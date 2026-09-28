@@ -1,5 +1,3 @@
-I am a assertive and cherfull young man.
-
 # 👋 About Me:
 - Studying 4º course of Software Engineering at the University Of Oviedo.
 - Looking for some practical experience.
