@@ -7,7 +7,7 @@ I am a assertive and cherfull young man.
 - Working on a personal project about privacy -> [AmITraceable](https://github.com/nacho50900/AmITraceable)
 
 ![Contribuciones](https://ghchart.rshah.org/nacho50900)
-<p align="right">
+<p align="left">
   <sub>Menos
     <img src="https://placehold.co/12x12/ebedf0/ebedf0.png">
     <img src="https://placehold.co/12x12/9be9a8/9be9a8.png">
@@ -29,6 +29,6 @@ I am a assertive and cherfull young man.
 [![AmITraceable](https://github-readme-stats.shion.dev/api/pin/?username=nacho50900&repo=AmITraceable&theme=default)](https://github.com/nacho50900/AmITraceable)
 [![yovi_en1b](https://github-readme-stats.shion.dev/api/pin/?username=Arquisoft&repo=yovi_en1b&theme=default)](https://github.com/Arquisoft/yovi_en1b)
 ---
-<--![](https://raw.githubusercontent.com/nacho50900/nacho50900/main/profile-summary-card-output/default/0-profile-details.svg)-->
+<!-- ![](https://raw.githubusercontent.com/nacho50900/nacho50900/main/profile-summary-card-output/default/0-profile-details.svg) -->
 
 [![Visitas](https://komarev.com/ghpvc/?username=nacho50900&label=Visitas&color=success&style=flat)](https://github.com/nacho50900)
