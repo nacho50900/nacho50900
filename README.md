@@ -9,14 +9,12 @@ Studying 4º course of Software Engineering at the University Of Oviedo.<br>Look
 ![](https://streak-stats.demolab.com/?user=nacho50900&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=nacho50900&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repos
 ![](https://github-contributor-stats.vercel.app/api?username=nacho50900&limit=5&theme=default&combine_all_yearly_contributions=true)
 
 [![AmITraceable](https://github-readme-stats.shion.dev/api/pin/?username=nacho50900&repo=AmITraceable&theme=default)](https://github.com/nacho50900/AmITraceable)
 [![yovi_en1b](https://github-readme-stats.shion.dev/api/pin/?username=Arquisoft&repo=yovi_en1b&theme=default)](https://github.com/Arquisoft/yovi_en1b)
 ---
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=nacho50900&layout=donut-vertical)
 
 ![](https://raw.githubusercontent.com/nacho50900/nacho50900/main/profile-summary-card-output/default/0-profile-details.svg)
 
