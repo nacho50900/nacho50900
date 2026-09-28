@@ -4,7 +4,7 @@ I am a assertive and cherfull young man.
 - Studying 4º course of Software Engineering at the University Of Oviedo.
 - Looking for some practical experience.
 - Especially attracted to cybersecurity.
-- Working on a personal project: [AmITraceable](https://github.com/nacho50900/AmITraceable)
+- Working on a personal project about privacy -> [AmITraceable](https://github.com/nacho50900/AmITraceable)
 
 ![Contribuciones](https://ghchart.rshah.org/nacho50900)
 
